@@ -5,7 +5,7 @@
 package snakegame.GameObject;
 
 /**
- *
+ * Interface used defining abstraction of moving and checking for collisions
  * @author matya
  */
 public interface IMove {

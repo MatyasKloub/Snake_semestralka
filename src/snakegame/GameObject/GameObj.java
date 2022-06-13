@@ -5,7 +5,7 @@
 package snakegame.GameObject;
 
 /**
- *
+ * Object used for position of apple
  * @author matya
  */
 public class GameObj {
