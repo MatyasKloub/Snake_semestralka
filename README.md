@@ -104,6 +104,36 @@ Generování javadoc
 Vývojový diagram
 
 
+
+
+
+![alt text](https://github.com/MatyasKloub/Snake_semestralka/blob/main/doc/vyvoj.png)
+
 Class diagram
 
+
+
+
+![alt text](https://github.com/MatyasKloub/Snake_semestralka/blob/main/doc/class_diag.png)
+
+- Testování
+
+![alt text](https://github.com/MatyasKloub/Snake_semestralka/blob/main/doc/test1.png)
+- Test č.1 Základní jméno s použitím znaků
+![alt text](https://github.com/MatyasKloub/Snake_semestralka/blob/main/doc/test2.png)
+- Test č. 2 Použití pouze čísel pro jméno
+![alt text](https://github.com/MatyasKloub/Snake_semestralka/blob/main/doc/test3.png)
+- Test č. 3 - Použití čísel i písmen pro jméno
+![alt text](https://github.com/MatyasKloub/Snake_semestralka/blob/main/doc/test4.png)
+- Test č. 4 - použití speciálních znaků 
+![alt text](https://github.com/MatyasKloub/Snake_semestralka/blob/main/doc/test5.png)
+- Test č. 5 složka “data” se úspěšně vytvořila + v ní rovnou soubor
+![alt text](https://github.com/MatyasKloub/Snake_semestralka/blob/main/doc/test6.png)
+- Test č. 6 Pouze složka existovala (prázdná), oba soubory se najednou vytvořily
+![alt text](https://github.com/MatyasKloub/Snake_semestralka/blob/main/doc/test7.png)
+- Test č.7 Po spuštění se automaticky vytvořil soubor colors.bin s defaultní barvou
+![alt text](https://github.com/MatyasKloub/Snake_semestralka/blob/main/doc/test8.png)
+- Test č.8 Hadův ocas má správnou barvu (hlava se nemění)
+![alt text](https://github.com/MatyasKloub/Snake_semestralka/blob/main/doc/test9.png)
+- Test č.9 barva zůstala stejná po znovu zapnutí hry
 
